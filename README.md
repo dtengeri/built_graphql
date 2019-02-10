@@ -55,4 +55,4 @@ For the `Hero` class, the JSON response must have a `hero` key:
 
 The library supports only deserialization of the JSON responses. Serialization of the objects won't give the same result.
 
-Please file feature requests and bugs at the [issue tracker](https://www.github.com/dtengeri/built_graphql).
+Please file feature requests and bugs at the [issue tracker](https://github.com/dtengeri/built_graphql/issues).
