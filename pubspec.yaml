@@ -1,6 +1,8 @@
 name: built_graphql
-description: Using built_value to deserialize GraphQL JSON responses.
-version: 1.0.0
+description: >
+  Using built_value to deserialize GraphQL JSON responses. 
+  The package provides generic classes to deal with the fix format of the GraphQL response and errors.
+version: 1.0.1
 homepage: https://www.github.com/dtengeri/built_graphql
 author: dtengeri <dtengeri@gmail.com>
 
